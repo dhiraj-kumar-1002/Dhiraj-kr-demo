@@ -1,2 +1,2 @@
 # Dhiraj-kr-demo
-this is demo for Github class
+this is demo for Github class.
